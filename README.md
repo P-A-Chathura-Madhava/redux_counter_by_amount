@@ -51,9 +51,9 @@ In this projects a user can add and remove custom amount from the counter by cli
 1. Clone the repo
    ```sh
    git clone https://github.com/your_username_/Project-Name.git
-2. Run "npm install"
-   ```
-
+2. Install Dependencies
+   ```sh
+    npm install
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 #### Some Screenshots of the project:
